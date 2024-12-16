@@ -17,9 +17,9 @@
 - key: Contact
   value:
     - key: Office
-      value: Foobar Hall 1.23
+      value: Sapphire Hall 1.23
     - key: Phone
-      value: +82 234 567 890
+      value: +82 42 567 890
     - key: Email
       value: redwood2ai@gmail.com
       url: "mailto:redwood2ai@gmail.com"
