@@ -1,31 +1,31 @@
 - key: Name
-  value: Place Holder
+  value: Redwood AI
 - key: Description
   value:
     - Hello!
-    - This tiny website
-    - Looks like JSON
+    - Welcome to Redwood AI
+    - Official website.
   typed: true
 - key: CV
   value: cv.pdf
   url: /cv.pdf
 - key: Address
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - University of Torento
+    - Department of Computer Science
+    - 123 Main St, Daejeon, KOREA
 - key: Contact
   value:
     - key: Office
       value: Foobar Hall 1.23
     - key: Phone
-      value: +1 234 567 890
+      value: +82 234 567 890
     - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
+      value: redwood2ai@gmail.com
+      url: "mailto:redwood2ai@gmail.com"
 - key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
+  value: about/redwood2ai
+  url: https://github.com/redwood2ai/about/redwood2ai.html
 - key: Profiles
   value:
     - value: Instagram
